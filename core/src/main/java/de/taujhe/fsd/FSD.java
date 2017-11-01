@@ -1,4 +1,4 @@
-package de.taujhe.fsd.main;
+package de.taujhe.fsd;
 
 public class FSD {
 

@@ -17,8 +17,6 @@
 
     <modules>
         <module>core</module>
-        <module>database</module>
-        <module>main</module>
         <module>web</module>
     </modules>
 
